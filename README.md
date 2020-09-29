@@ -1,7 +1,7 @@
 # Alteryx SDK GenerateDateRange
 Alteryx Python SDK tool to generate data ranges
 
-Generates new rows of data containing dates from the given start date to the end date, both dates included.
+Generates new rows of data containing dates from the given start date to the end date, both dates included. Duplicates functionality of the standard Generate Rows tool but is easier/quicker to use.
 
 ## Installation
 Download the yxi file and double click to install in Alteyrx. The tool will be installed in the __Preparation__ category.
